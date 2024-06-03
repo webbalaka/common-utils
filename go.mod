@@ -1,4 +1,4 @@
-module github.com/night-sornram/employee-management/common-utils
+module github.com/webbalaka/common-utils
 
 go 1.22.3
 
